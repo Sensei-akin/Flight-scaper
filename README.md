@@ -12,3 +12,8 @@ Personal flight scraper to notify me for good flight prices
 * The searching results will be stored in flight-price.txt
 
 A sample result file is provided
+
+
+Future work -- Integrate with email.
+
+How to send the search results to my email.
