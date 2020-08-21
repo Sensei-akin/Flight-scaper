@@ -8,7 +8,7 @@ Personal flight scraper to notify me for good flight prices
 * pip install selenium
 * Install a ChromeDriver
 * For more information about ChromeDriver installation please refer to https://intoli.com/blog/running-selenium-with-headless-chrome/
-* Run the script: python3 get_airprice.py $URL $FROMCITYNAME $TOCITYNAME $FROMDATE $TODATE
+* Run the script: python3 scrape.py $URL $FROMCITYNAME $TOCITYNAME $FROMDATE $TODATE
 * The searching results will be stored in flight-price.txt
 
 A sample result file is provided
