@@ -1,0 +1,147 @@
+2h in SVO
+Layover 2h in SVO
+6h 55m in SVO
+Layover 6h 55m in SVO
+12h 45m in SVO
+Layover 12h 45m in SVO
+3h 45m in CMN
+Layover 3h 45m in CMN
+1h 15m in IST
+Layover 1h 15m in IST
+6h 5m in IST
+Layover 6h 5m in IST
+6h 20m in IST
+Layover 6h 20m in IST
+7h 5m in IST
+Layover 7h 5m in IST
+12h 10m in IST
+Layover 12h 10m in IST
+12h 25m in IST
+Layover 12h 25m in IST
+18h in IST
+Layover 18h in IST
+18h 15m in IST
+Layover 18h 15m in IST
+19h 10m in IST
+Layover 19h 10m in IST
+
+1h in LHR
+Layover 1h in LHR
+2h 15m in LHR
+Layover 2h 15m in LHR
+4h 10m in LHR
+Layover 4h 10m in LHR
+4h 35m in LHR
+Layover 4h 35m in LHR
+4h 50m in LHR
+Layover 4h 50m in LHR
+5h 55m in LHR
+Layover 5h 55m in LHR
+MUC - YYZ
+3h 20m in ZRH
+Layover 3h 20m in ZRH
+3h 20m in ZRH
+Layover 3h 20m in ZRH
+3h 40m in ZRH
+Layover 3h 40m in ZRH
+6h 25m in ZRH
+Layover 6h 25m in ZRH
+3h 20m in MUC
+Layover 3h 20m in MUC
+3h 20m in MUC
+Layover 3h 20m in MUC
+6h 15m in MUC
+Layover 6h 15m in MUC
+6h 15m in MUC
+Layover 6h 15m in MUC
+2h 10m in FRA
+Layover 2h 10m in FRA
+4h 30m in FRA
+Layover 4h 30m in FRA
+14h 55m in VIE
+Layover 14h 55m in VIE
+15h 20m in VIE
+Layover 15h 20m in VIE
+2h 20m in FCO
+Layover 2h 20m in FCO
+1h 20m in DXB
+Layover 1h 20m in DXB
+2h 25m in DXB
+Layover 2h 25m in DXB
+2h 10m in FRA
+Layover 2h 10m in FRA
+2h 30m in FRA
+Layover 2h 30m in FRA
+1h 30m in CDG
+Layover 1h 30m in CDG
+3h 50m in CDG
+Layover 3h 50m in CDG
+4h 15m in AUH
+Layover 4h 15m in AUH
+11h 30m in AUH
+Layover 11h 30m in AUH
+15h 55m in AUH
+Layover 15h 55m in AUH
+23h 45m in AUH
+Layover 23h 45m in AUH
+2h 20m in FCO
+Layover 2h 20m in FCO
+3h 30m in FCO
+Layover 3h 30m in FCO
+1h 30m in CDG
+Layover 1h 30m in CDG
+9h 50m in MUC
+Layover 9h 50m in MUC
+MUC - YYZ
+MUC - YYZ
+MUC - YYZ
+MUC - YYZ
+14h 55m in VIE
+Layover 14h 55m in VIE
+15h 20m in VIE
+Layover 15h 20m in VIE
+3h 40m in ZRH
+Layover 3h 40m in ZRH
+6h 25m in ZRH
+Layover 6h 25m in ZRH
+10h 50m in ZRH
+Layover 10h 50m in ZRH
+4h 30m in FRA
+Layover 4h 30m in FRA
+8h 20m in FRA
+Layover 8h 20m in FRA
+1h in LHR
+Layover 1h in LHR
+9h 50m in MUC
+Layover 9h 50m in MUC
+FRA - IAD
+14h 50m in FRA
+Layover 14h 50m in FRA
+17h 10m in FRA
+Layover 17h 10m in FRA
+21h in FRA
+Layover 21h in FRA
+8h 20m in FRA
+Layover 8h 20m in FRA
+14h 50m in FRA
+Layover 14h 50m in FRA
+17h 10m in FRA
+Layover 17h 10m in FRA
+3h 45m in CMN
+Layover 3h 45m in CMN
+CMN - BOS
+6h in RUH
+Layover 6h in RUH
+2h 35m in DXB
+Layover 2h 35m in DXB
+4h 50m in DXB
+Layover 4h 50m in DXB
+5h in DXB
+Layover 5h in DXB
+DXB - MXP
+2h 20m in FCO
+Layover 2h 20m in FCO
+5h 40m in FCO
+Layover 5h 40m in FCO
+7h 40m in FCO
+Layover 7h 40m in FCO
