@@ -2,9 +2,9 @@
 Personal flight scraper to notify me for good flight prices
 
 
-### A Python script that uses headless selenium chrome driver to scrape airline prices from Expedia Usage: 
+### A Python script that uses headless selenium chrome driver to scrape airline prices from Expedia: 
 
-* Requirement: python 2
+* Requirement: python 3
 * pip install selenium
 * Install a ChromeDriver
 * For more information about ChromeDriver installation please refer to https://intoli.com/blog/running-selenium-with-headless-chrome/
